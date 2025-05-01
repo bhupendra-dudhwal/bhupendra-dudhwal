@@ -18,15 +18,21 @@ I'm a passionate and results-driven software engineer with over a decade of expe
 
 While my primary focus is **Golang**, I also bring hands-on experience with **Node.js, PHP, and Python**, allowing me to adapt across tech stacks and contribute effectively in diverse environments. I specialize in building scalable backends, architecting resilient systems, and driving technical excellence through both leadership and hands-on development.
 
-**🛠️ Core Expertise**
+## 🛠️ Core Expertise**
 - **Golang:** High-performance backend systems, concurrency, clean architecture
 - **Distributed Systems:** Scalability, resiliency, observability
 - **Microservices:** Design, migration, CI/CD, service meshes
 - **System Design:** Low-latency APIs, event-driven architecture
 - **Team Leadership**: Agile practices, mentoring, cross-functional collaboration
 
-**📌 Current Focus**
+## 📌 Current Focus**
 - Leading backend development teams using Golang
 - Improving performance of large-scale microservice systems
 - Architecting cloud-native applications (Kubernetes, Docker, etc.)
 - Writing high-quality, maintainable, and tested code
+
+## 💻 Programming Languages
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
