@@ -23,5 +23,4 @@ While my primary focus is **Golang**, I also bring hands-on experience with **No
 - **Distributed Systems:** Scalability, resiliency, observability
 - **Microservices:** Design, migration, CI/CD, service meshes
 - **System Design:** Low-latency APIs, event-driven architecture
-
-**Team Leadership**: Agile practices, mentoring, cross-functional collaboration
+- **Team Leadership**: Agile practices, mentoring, cross-functional collaboration
