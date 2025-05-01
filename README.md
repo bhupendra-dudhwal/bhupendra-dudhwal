@@ -19,12 +19,9 @@ I'm a passionate and results-driven software engineer with over a decade of expe
 While my primary focus is **Golang**, I also bring hands-on experience with **Node.js, PHP, and Python**, allowing me to adapt across tech stacks and contribute effectively in diverse environments. I specialize in building scalable backends, architecting resilient systems, and driving technical excellence through both leadership and hands-on development.
 
 **🛠️ Core Expertise**
-**Golang:** High-performance backend systems, concurrency, clean architecture
-
-**Distributed Systems:** Scalability, resiliency, observability
-
-**Microservices:** Design, migration, CI/CD, service meshes
-
-**System Design:** Low-latency APIs, event-driven architecture
+- **Golang:** High-performance backend systems, concurrency, clean architecture
+- **Distributed Systems:** Scalability, resiliency, observability
+- **Microservices:** Design, migration, CI/CD, service meshes
+- **System Design:** Low-latency APIs, event-driven architecture
 
 **Team Leadership**: Agile practices, mentoring, cross-functional collaboration
