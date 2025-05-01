@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate and results-driven software engineer with over a decade of experience designing and scaling **high-performance**, **low-latency** systems. I’ve led successful transitions to **microservices architectures**, optimized distributed systems, and mentored high-performing engineering teams.
+
+While my primary focus is **Golang**, I also bring hands-on experience with **Node.js, PHP, and Python**, allowing me to adapt across tech stacks and contribute effectively in diverse environments. I specialize in building scalable backends, architecting resilient systems, and driving technical excellence through both leadership and hands-on development.
